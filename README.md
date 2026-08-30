@@ -4,12 +4,11 @@
 
 Based in London, I am an IT Support Analyst with over 8 years of hands-on experience across 1st- and 2nd-line support, field engineering, infrastructure support and data-centre environments.
 
-My technical background includes Windows desktop support, Active Directory, TCP/IP networking, hardware diagnostics, system builds, remote support, Linux administration, virtualisation and infrastructure troubleshooting. I have worked in customer-facing environments supporting users, managing incidents, working to SLAs and escalating technical issues where required.
+My technical background includes Windows support, Active Directory, TCP/IP networking, hardware diagnostics, system builds, remote support, Linux administration, virtualisation and infrastructure troubleshooting. I have experience supporting users, managing incidents, working to SLAs and resolving or escalating technical issues in customer-facing environments.
 
-My background is also supported by a BSc (Hons) in Economics and Data Analytics training, giving me a strong analytical and data-driven approach to technical problem solving. I use tools such as Python, pandas, SQL, Power BI and data visualisation alongside my infrastructure and support experience.
+Alongside my IT background, I have a BSc (Hons) in Economics and training in Data Analytics, with practical skills in Python, pandas, SQL, Power BI and data visualisation. This analytical background complements my technical experience by helping me approach troubleshooting, performance and decision-making in a structured and data-driven way.
 
-I enjoy combining practical troubleshooting with analytical thinking to improve reliability, efficiency and technical decision-making, and I am particularly interested in environments where IT support, infrastructure and continuous improvement come together.
-
+I am passionate about leveraging my technical and analytical skills to drive innovation and contribute to teams that thrive on continuous improvement.
 ---
 
 ## IT Support & Infrastructure
