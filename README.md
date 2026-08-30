@@ -5,7 +5,7 @@
 
 ## About me
 
-Based in London, I have worked as an IT Technical Support Engineer, specializing in maintaining IT infrastructure and delivering seamless client integration. My background is diverse, combining over 10 years of hands-on experience in IT with recent qualifications in Economics and Data Analytics. I bring a strategic, data-driven approach to my work, ensuring optimal performance and efficiency. I am passionate about leveraging my technical and analytical skills to drive innovation and contribute to teams that thrive on continuous improvement.
+Based in London, I have worked as an IT Technical Support Engineer, specializing in maintaining IT infrastructure and delivering seamless client integration. My background is diverse, combining over 8 years of hands-on experience in IT with recent qualifications in Economics and Data Analytics. I bring a strategic, data-driven approach to my work, ensuring optimal performance and efficiency. I am passionate about leveraging my technical and analytical skills to drive innovation and contribute to teams that thrive on continuous improvement.
 <!--
 **jlc-sw/jlc-sw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
