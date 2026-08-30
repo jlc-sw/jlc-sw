@@ -1,49 +1,99 @@
-<!--
-## Welcome to my Github 
--->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hello%20%20everyone!&fontSize=80%)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Jose%20Luis%20Calvo&fontSize=65%)
 
-## About me
+## About Me
 
-Based in London, I have worked as an IT Technical Support Engineer, specializing in maintaining IT infrastructure and delivering seamless client integration. My background is diverse, combining over 8 years of hands-on experience in IT with recent qualifications in Economics and Data Analytics. I bring a strategic, data-driven approach to my work, ensuring optimal performance and efficiency. I am passionate about leveraging my technical and analytical skills to drive innovation and contribute to teams that thrive on continuous improvement.
-<!--
-**jlc-sw/jlc-sw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in London, I am an IT Support Analyst with over 8 years of hands-on experience across 1st- and 2nd-line support, field engineering, infrastructure support and data-centre environments.
 
-https://devicon.dev/
+My technical background includes Windows desktop support, Active Directory, TCP/IP networking, hardware diagnostics, system builds, remote support, Linux administration, virtualisation and infrastructure troubleshooting. I have worked in customer-facing environments supporting users, managing incidents, working to SLAs and escalating technical issues where required.
 
-Here are some ideas to get you started:
+My background is also supported by a BSc (Hons) in Economics and Data Analytics training, giving me a strong analytical and data-driven approach to technical problem solving. I use tools such as Python, pandas, SQL, Power BI and data visualisation alongside my infrastructure and support experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Some Tools I Have Used and Learned</h2>
+I enjoy combining practical troubleshooting with analytical thinking to improve reliability, efficiency and technical decision-making, and I am particularly interested in environments where IT support, infrastructure and continuous improvement come together.
+
+---
+
+## IT Support & Infrastructure
+
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="vscode" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="vscode" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" alt="centos" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="debian" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="vscode" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" alt="CentOS" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" alt="Proxmox" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="pfSense" width="48" height="48"/>
 
 </p>
+
+<p align="center">
+Active Directory · Microsoft 365 · Microsoft Entra ID · Windows Server · TCP/IP · DNS · DHCP · LAN/WAN · Wi-Fi · RDP · TeamViewer · KVM · HPE iLO
+</p>
+
+---
+
+## Data & Analytics
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
+
+</p>
+
+<p align="center">
+SQL · Power BI · Data Analysis · Data Visualisation
+</p>
+
+---
+
+## Selected Technical Areas
+
+| Area | Experience |
+|---|---|
+| End-User Support | Windows desktops, laptops, printers, peripherals, imaging and remote support |
+| Systems Administration | Active Directory, user accounts, password resets, Windows Server, Debian and CentOS |
+| Networking | TCP/IP, DNS, DHCP, switching, routing, Wi-Fi, LAN/WAN and structured cabling |
+| Infrastructure | Proxmox, KVM, Docker, HPE ProLiant, HPE iLO, backups and restoration |
+| Service Support | Incident logging, prioritisation, customer updates, SLA tracking and escalation |
+| Data & Analytics | Python, pandas, SQL, Power BI and data visualisation |
+
+---
+
+## Projects & Portfolio
+
+### Microsoft IT Support Portfolio
+
+Practical IT support case studies covering Microsoft 365 administration, user lifecycle management, licensing, troubleshooting, incident documentation and support methodology.
+
+[View Microsoft IT Support Portfolio](https://github.com/jlc-sw/microsoft-it-support-portfolio)
+
+### VEXAR
+
+Personal infrastructure and AI project built around Linux, Docker, virtualisation, networking, PostgreSQL and AI-native retrieval services.
+
+The project includes practical work with Proxmox/KVM virtual machines, containerised services, networking, system troubleshooting and service integration.
+
+---
+
+## Background
+
+- BSc (Hons) Economics, 2:1
+- Data Analytics Skills Bootcamp
+- Microsoft 365 Administration training
+- Microsoft Entra ID administration training
+- Linux Administrator training
+- Linux Networking training
+- Cisco CCNA Curriculum
+
+---
+
+## Languages
+
+Spanish · English · Italian
