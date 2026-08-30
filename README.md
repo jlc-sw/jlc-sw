@@ -16,6 +16,7 @@ I enjoy combining practical troubleshooting with analytical thinking to improve 
 
 <p align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" alt="Windows" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" alt="Debian" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" alt="CentOS" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="80" height="80"/>
@@ -26,7 +27,7 @@ I enjoy combining practical troubleshooting with analytical thinking to improve 
 </p>
 
 <p align="center">
-Windows · Linux · Bash · Active Directory · Microsoft 365 · Microsoft Entra ID · Windows Server · TCP/IP · DNS · DHCP · LAN/WAN · Wi-Fi · RDP · TeamViewer · KVM · HPE iLO
+Linux · Bash · Active Directory · Microsoft 365 · Microsoft Entra ID · Windows Server · TCP/IP · DNS · DHCP · LAN/WAN · Wi-Fi · RDP · TeamViewer · KVM · HPE iLO
 </p>
 
 ---
