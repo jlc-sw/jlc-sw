@@ -9,6 +9,7 @@ My technical background includes Windows support, Active Directory, TCP/IP netwo
 Alongside my IT background, I have a BSc (Hons) in Economics and training in Data Analytics, with practical skills in Python, pandas, SQL, Power BI and data visualisation. This analytical background complements my technical experience by helping me approach troubleshooting, performance and decision-making in a structured and data-driven way.
 
 I am passionate about leveraging my technical and analytical skills to drive innovation and contribute to teams that thrive on continuous improvement.
+
 ---
 
 ## IT Support & Infrastructure
