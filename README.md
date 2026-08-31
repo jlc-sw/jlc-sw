@@ -93,4 +93,4 @@ The project includes practical work with Proxmox/KVM virtual machines, container
 
 ## Languages
 
-Spanish · English · Italian
+English · Spanish · Italian
